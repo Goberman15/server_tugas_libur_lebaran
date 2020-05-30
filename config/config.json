@@ -16,6 +16,10 @@
     "operatorsAliases": false
   },
   "production": {
-    "use_env_variable": "DATABASE_URL"
+    "username": "tknllsyvswrpmz",
+    "password": "8e2c0cbe39d845f2d2a4ffb30ab90538a2d734cb807cb09699d78e7ab7836379",
+    "database": "dbm3o38t0m1k7d",
+    "host": "ec2-52-86-73-86.compute-1.amazonaws.com",
+    "dialect": "postgres"
   }
 }
